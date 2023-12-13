@@ -1,0 +1,119 @@
+.til{
+    text-align: center;
+    font-size: 500%; 
+    font-family:'Courier New', Courier, monospace;
+    padding-top: 50px;
+    font-weight: 500;
+}
+
+.bg{
+    background-image:url(../Images/twohands.webp);
+    background-repeat: no-repeat;
+    background-color: rgb(255, 254, 245);
+}
+
+.bgp{
+    background-color: rgb(255, 254, 245);
+}
+
+a{
+    color:rgb(255, 243, 220);
+    text-decoration: none;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 25px;
+    padding: 5px;
+}
+    
+a:hover{
+    text-decoration: underline;
+}
+
+a:visited{
+    color:black;
+}
+
+.tablo{
+    height: 20%;
+    width: 70%;
+    margin-top: 5%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Alink{
+   margin-bottom: 1%;
+   text-align: center;
+   font-size: 25px;
+   font-family: 'Courier New', Courier, monospace;
+   font-weight: 150;
+}
+
+.pimg{
+    padding-left: 45%;
+}
+
+p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.pbody{
+    padding-left: 45%;
+    color: black;
+    font-size: 30px;
+}
+
+.vid{
+    display: block;
+    padding-top: 6%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 1cm;
+}
+
+.tol{
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    font-weight: 500;
+    padding-left: 25%;
+    padding-top:50px;
+}
+
+.lis{
+    color: black;
+    font-family: monospace;
+    font-weight: 200;
+    font-size: 20px;
+}
+
+.hp{
+    font-family: 'Courier New', Courier, monospace;
+    padding-right: 10%;
+    padding-left: 10%;
+    padding-top: 1cm;
+    font-size: 25px;
+    text-align:center ;
+}
+
+.chn{
+    padding-left: 30%;
+    padding-top: 1cm;
+}
+
+.lon{
+    border: solid 1px black;
+    padding: .1cm;
+    padding-bottom: 0cm;
+}
+
+.al{
+    padding-left: 37%;
+}
+
+.col{
+    text-align: center;
+}
+
+.cols{
+    margin: auto;
+}
